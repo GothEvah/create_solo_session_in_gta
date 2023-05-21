@@ -12,4 +12,4 @@ Warning:
 - Only usable for 64bit systems atm, send me a message on discord if you need it for a 32bit system.
 
 
-Just a simple tool made by Kimmedy (Ft. Beegeedoubleyou)
+Just a simple tool made by Kimmedy
