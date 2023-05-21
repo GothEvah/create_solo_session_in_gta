@@ -12,4 +12,4 @@ Warning:
 - Only usable for 64bit systems atm.
 
 
-Just a simple tool made by Kimmedy
+Just a simple tool made by Kimmedy (Ft. BGW)
